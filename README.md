@@ -1,13 +1,13 @@
 # Metasploit Kurulumu(Termux)
-apt update
-apt upgrade
-apt-get update
-apt-get upgrade
-apt install git
-apt install evet
-apt install curl
-pkg install ruby -y
-apt install root-depo
-apt install unstable-repo
-apt install x11-repo
-pkg install metasploit -y
+1. apt update
+2. apt upgrade
+3. apt-get update
+4. apt-get upgrade
+5. apt install git
+6. apt install wget
+7. apt install curl
+8. pkg install ruby -y
+9. apt install root-depo
+10. apt install unstable-repo
+11. apt install x11-repo
+12. pkg install metasploit -y
