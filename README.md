@@ -1,4 +1,4 @@
-# Metasploit Kurulumu(Termux)
+# Metasploit Kurulumu
 1. apt update
 2. apt upgrade
 3. apt-get update
@@ -11,3 +11,7 @@
 10. apt install unstable-repo
 11. apt install x11-repo
 12. pkg install metasploit -y
+# Make-Trojan Kurulumu
+pkg install python
+cd Make-Trojan
+python Make-Trojan.py
