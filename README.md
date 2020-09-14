@@ -14,10 +14,10 @@
 11. apt install x11-repo
 12. pkg install metasploit -y
 # Make-Trojan Kurulumu
-git clone https://github.com/ByHypertext/Make-Trojan
-1. pkg install python
-2. cd Make-Trojan
-3. python make-trojan.py
+1. git clone https://github.com/ByHypertext/Make-Trojan
+2. pkg install python
+3. cd Make-Trojan
+4. python make-trojan.py
 # Make-Trojan Kullanımı
 Gerekli alanları doldurun ve dosyanın oluşmasını bekleyin
 1. msfconsole
