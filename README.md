@@ -12,6 +12,6 @@
 11. apt install x11-repo
 12. pkg install metasploit -y
 # Make-Trojan Kurulumu
-pkg install python
-cd Make-Trojan
-python Make-Trojan.py
+1. pkg install python
+2. cd Make-Trojan
+3. python Make-Trojan.py
