@@ -16,7 +16,7 @@
 # Make-Trojan Kurulumu
 1. pkg install python
 2. cd Make-Trojan
-3. python Make-Trojan.py
+3. python make-trojan.py
 # Make-Trojan Kullanımı
 Gerekli alanları doldurun ve dosyanın oluşmasını bekleyin
 1. msfconsole
